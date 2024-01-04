@@ -33,7 +33,7 @@
 3. ![image](pic/0.1.png)
 4. ![image](pic/1.png)
 5. ![image](pic/2.png)
-6. [Исправленные ошибки](./example/fail.ry)
+6. [Исправленные ошибки](./example/fail.py)
 7. ![image](pic/3.png)
 
 ## Знакомство с Nexus
@@ -58,7 +58,7 @@
 1. `docker pull sonatype/nexus3`
 2. `docker run -d -p 8081:8081 --name nexus sonatype/nexus3`
 3. ![image](pic/4.png)
-4. ![image](pic/1.png)
+4. ![image](pic/5.png)
 5. [maven-metadata.xml](./example/maven-metadata.xml)
 
 ### Знакомство с Maven
